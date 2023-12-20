@@ -2,8 +2,8 @@
 
 ## Overview
 
-### Lidar, which stands for Light Detection and Ranging, is a remote sensing method that uses light in the form of a pulsed laser to measure ranges (variable distances) to the Earth.
-In this Project, The LIDAR concept is used to sense obstacles, and the project provides functionalities for path planning algorithms.
+### *Lidar, which stands for Light Detection and Ranging, is a remote sensing method that uses light in the form of a pulsed laser to measure ranges (variable distances) to the Earth.
+In this Project, The LIDAR concept is used to sense obstacles, and the project provides functionalities for path planning algorithms.*
 
 #### Features
 
@@ -32,6 +32,8 @@ Navigate to the project directory:
 3- Run the main script:
 
 This will launch the Pygame environment with the simulated LIDAR.
+
+*Note: Feel free to use custom Floor Plans, But the file should be as the following: 1200x600 - PNG - White Background*
 
 #### Contributing
 
