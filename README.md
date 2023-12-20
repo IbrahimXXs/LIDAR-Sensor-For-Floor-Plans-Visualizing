@@ -3,7 +3,7 @@
 ## Overview
 
 ### *Lidar, which stands for Light Detection and Ranging, is a remote sensing method that uses light in the form of a pulsed laser to measure ranges (variable distances) to the Earth.*
-*In this Project, The LIDAR concept is used to sense obstacles, and the project provides functionalities for path planning algorithms.*
+### *In this Project, The LIDAR concept is used to sense obstacles, and the project provides functionalities for path planning algorithms.*
 
 #### Features
 
